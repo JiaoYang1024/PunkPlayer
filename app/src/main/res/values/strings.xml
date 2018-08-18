@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PunkPlayer</string>
+    <string name="input_url">输入网址</string>
+    <string name="start_play">播放</string>
+</resources>
